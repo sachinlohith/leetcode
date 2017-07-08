@@ -1,6 +1,4 @@
-"""
-https://leetcode.com/problems/array-partition-i/#/description
-"""
+"""https://leetcode.com/problems/array-partition-i/#/description."""
 
 
 class Solution(object):
